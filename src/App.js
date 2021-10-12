@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-      <p>V3 much better, demo app.</p>
+      <p>V4 is great, demo app.</p>
       </header>
     </div>
   );
